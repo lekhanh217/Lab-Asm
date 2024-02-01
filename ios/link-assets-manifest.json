@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/ArchivoNarrow-Bold.ttf",
+      "sha1": "e9ed564b21e76967cc2705b579def38b2515f790"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-BoldItalic.ttf",
+      "sha1": "82cc1e852fb06237d5aeb498584ffbe50bc9086b"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-Italic.ttf",
+      "sha1": "a325f707954bc6bcc3901f3420964f2dae97cfea"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-Medium.ttf",
+      "sha1": "e904f8c62d7511d3cfe133ccf731877d933cadc3"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-MediumItalic.ttf",
+      "sha1": "27dce4e05b1ca89e973a8b640eef005bd42ab07a"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-Regular.ttf",
+      "sha1": "5938d462dc34a82be52de2de5439e0fe2ab0885a"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-SemiBold.ttf",
+      "sha1": "4b7d5edff5a6d85b97598f7940b8db127bfbde41"
+    },
+    {
+      "path": "assets/font/ArchivoNarrow-SemiBoldItalic.ttf",
+      "sha1": "c844acacaa096f524cc5f9537797d8d33208b08a"
+    }
+  ]
+}
