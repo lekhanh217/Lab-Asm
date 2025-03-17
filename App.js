@@ -6,7 +6,7 @@ import Bai1 from './assets/component/lab5/bai1'
 import Bai2 from './assets/component/lab5/bai2'
 import Bai3 from './assets/component/lab5/bai3'
 //////
-
+///
 function App(){
    return (
    <Bai3></Bai3>
